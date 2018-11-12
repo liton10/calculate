@@ -3,7 +3,7 @@ A simple command based program to calculate string operations.
 
 How it works:
 
-Step 1: Copy .env.example file to .env
+Copy .env.example file to .env
 
 Generate a key file and put it to .env (php artisan key:generate)
 
